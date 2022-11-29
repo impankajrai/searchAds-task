@@ -6,7 +6,7 @@ This the task of Talkvalley. And I have done this task using MERN Stack.
 
 ## Preview
 
-![](https://github.com/impankajrai/searchAds-task/blob/main/Frontend/public/project%20view.gif)
+![](https://github.com/impankajrai/searchAds-task/blob/main/Frontend/public/project%20view.gif=200x)
 
 
 ## Authors
